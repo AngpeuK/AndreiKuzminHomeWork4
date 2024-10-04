@@ -1,14 +1,14 @@
 class Rectangle {
-    width: number
-    height: number
+    width : number
+    height : number
 
     constructor(width: number, height: number) {
-        this.Width = width
-        this.Height = height
+        this.width = width
+        this.height = height
     }
 
-    getArea(): number {
-        return width * height
+    getArea (): number {
+        return this.width * this.height
     }
 }
 
