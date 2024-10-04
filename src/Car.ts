@@ -18,3 +18,4 @@ class Car {
 const car = new Car('Toyota', 100)
 car.accelerate () // After fixing: will print 120
 console.log(car.newSpeed())
+//done

@@ -19,3 +19,4 @@ class Person {
 const john = new Person('John', 30)
 console.log(john.getName()) // After fixing: will print "John"
 console.log(john.getAge())  // After fixing: will print 30
+//done

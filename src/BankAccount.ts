@@ -17,3 +17,4 @@ class BankAccount {
 const myAccount = new BankAccount(500)
 myAccount.deposit(100) // After fixing: will print 600
 console.log(myAccount.getBalance())
+//done
